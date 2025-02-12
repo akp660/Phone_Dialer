@@ -39,7 +39,9 @@ The **Phone Dialer** is a Flutter application that allows users to:
    ```
 
 ## 📷 Screenshots
-(Include screenshots of the app UI here)
+![WhatsApp Image 2025-02-13 at 1 49 37 AM (1)](https://github.com/user-attachments/assets/3a9d72c2-b783-49ba-b043-157bd2738bdc)
+![WhatsApp Image 2025-02-13 at 1 49 37 AM](https://github.com/user-attachments/assets/07af9e40-97a7-4232-83a0-2046c524e83b)
+
 
 ## 📜 Permissions Required
 - **Phone Call Permission** (To make calls)
