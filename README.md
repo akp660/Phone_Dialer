@@ -1,4 +1,4 @@
-📱 Phone Dialer Flutter Application
+# 📱 Phone Dialer Flutter Application
 
 ## 📌 Overview
 The **Phone Dialer** is a Flutter application that allows users to:
@@ -39,9 +39,10 @@ The **Phone Dialer** is a Flutter application that allows users to:
    ```
 
 ## 📷 Screenshots
-![WhatsApp Image 2025-02-13 at 1 49 37 AM (1)](https://github.com/user-attachments/assets/3a9d72c2-b783-49ba-b043-157bd2738bdc)
-![WhatsApp Image 2025-02-13 at 1 49 37 AM](https://github.com/user-attachments/assets/07af9e40-97a7-4232-83a0-2046c524e83b)
-
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/3a9d72c2-b783-49ba-b043-157bd2738bdc" width="20%" />
+  <img src="https://github.com/user-attachments/assets/07af9e40-97a7-4232-83a0-2046c524e83b" width="20%" />
+</p>
 
 ## 📜 Permissions Required
 - **Phone Call Permission** (To make calls)
@@ -54,4 +55,3 @@ The **Phone Dialer** is a Flutter application that allows users to:
 
 ## 📬 Contact
 For any queries or suggestions, reach out at **abhijeetpandeydhn@gmail.com**.
-
