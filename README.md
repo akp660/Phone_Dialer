@@ -26,7 +26,7 @@ The **Phone Dialer** is a Flutter application that allows users to:
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/phone_dialer_flutter.git
+   git clone https://github.com/akp660/Phone_Dialer.git
    cd phone_dialer_flutter
    ```
 2. Install dependencies:
